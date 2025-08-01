@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Amlan Sinha's World"
+title: "Dancing in madness"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my corner of the internet! I'm Amlan Sinha, an aerospace engineering doctoral candidate at Princeton University, driven by a passion for reimagining how we navigate the cosmos. My research blends dynamical systems theory, optimal control, and nonlinear optimization to tackle one of humanity’s greatest challenges: space exploration. Whether it's charting more efficient paths for spacecrafts or unraveling the complexities of multibody dynamics, I'm passionate about pushing the boundaries of what's possible in space mission design.
+Welcome to my corner of the internet! I'm Saiti Halder, an aerospace engineering doctoral candidate at Princeton University, driven by a passion for reimagining how we navigate the cosmos. My research blends dynamical systems theory, optimal control, and nonlinear optimization to tackle one of humanity’s greatest challenges: space exploration. Whether it's charting more efficient paths for spacecrafts or unraveling the complexities of multibody dynamics, I'm passionate about pushing the boundaries of what's possible in space mission design.
 
 About Me
 ======

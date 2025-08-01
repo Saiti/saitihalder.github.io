@@ -18,6 +18,8 @@ redirect_from:
   * _publications/
   * _talks/
   * _art-of-science/
+  * _dance/
+  * _art/
   * _teaching/
   * _portfolio/
   * _posts/
